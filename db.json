@@ -1,0 +1,91 @@
+{
+  "produtos": [
+    {
+      "produto": "Candida",
+      "categoria": "5",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "produto": "Vassoura",
+      "categoria": "4"
+    },
+    {
+      "produto": "Pão de Queijo",
+      "categoria": "3",
+      "id": 8
+    },
+    {
+      "produto": "Feijão",
+      "categoria": "3",
+      "id": 11
+    },
+    {
+      "produto": "Saco de lixo",
+      "categoria": "4",
+      "id": 13
+    },
+    {
+      "produto": "Lentilha",
+      "categoria": "3",
+      "id": 14
+    },
+    {
+      "produto": "Cloro",
+      "categoria": "5",
+      "id": 15
+    },
+    {
+      "produto": "Detergente",
+      "categoria": "5",
+      "id": 16
+    },
+    {
+      "produto": "Sabão em Pó",
+      "categoria": "5",
+      "id": 17
+    },
+    {
+      "produto": "Desenfetante",
+      "categoria": "5",
+      "id": 18
+    },
+    {
+      "produto": "Controle Remoto",
+      "categoria": "4",
+      "id": 20
+    },
+    {
+      "produto": "Computador",
+      "categoria": "6",
+      "id": 21
+    },
+    {
+      "id": 22,
+      "produto": "Motorola Z2 Play",
+      "categoria": "7"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 3,
+      "categoria": "Alimentos"
+    },
+    {
+      "id": 4,
+      "categoria": "Utilidades"
+    },
+    {
+      "categoria": "Limpeza",
+      "id": 5
+    },
+    {
+      "categoria": "Eletronicos",
+      "id": 6
+    },
+    {
+      "categoria": "Smartphone",
+      "id": 7
+    }
+  ]
+}
